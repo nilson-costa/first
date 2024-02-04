@@ -1,4 +1,4 @@
-﻿Tempo;Geracao_diaria_real_i1;Geracao_diaria_real_i2;Geracao_diaria_real_i3;meta_diaria;meta_mensal;soma_dos_inv;inv_1;inv_2;inv_3;maior_entre_1_e_2;65%_do_menor;diferenca_entre_a_geracao_real_e_prevista;valor_previsto_para_o_inv_3;valor maior entre 1 e 2;95%_do_maior;kwh _desperdicado
+﻿Tempo;Geracao_diaria_real_i1;Geracao_diaria_real_i2;Geracao_diaria_real_i3;meta_diaria;meta_mensal;soma_dos_inv;inv_1;inv_2;inv_3;maior_entre_1_e_2;inv3_65pcento;diferenca_entre_a_geracao_real_e_prevista;valor_previsto_para_o_inv_3;valor_maior_entre_1_e_2;maior_95pcento;kwh _desperdicado
 01/01/2022;0;0;0;392.8;12177;0;0;0;0;0;0;0;0;0;0;0
 02/01/2022;0;0;0;392.8;12177;0;0;0;0;0;0;0;0;0;0;0
 03/01/2022;0;0;0;392.8;12177;0;0;0;0;0;0;0;0;0;0;0
